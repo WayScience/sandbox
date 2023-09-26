@@ -10,4 +10,4 @@
 | Keenan | [@kmanpearl](https://github.com/kmanpearl) | [@wayscience] | Breakfast |
 | Ethan | [@Ecohen1763](https://github.com/Ecohen1763) | Way lab | Sushi |
 | Dayna | [@olsonday](https://github.com/olsonday) | Way Lab | Soup |
-| Jill | [@jillhoffman] (https://github.com/jillhoffman) | Way Lab | Bagels |
+| Jill | [@jillhoffman](https://github.com/jillhoffman) | Way Lab | Bagels |
