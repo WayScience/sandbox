@@ -10,5 +10,6 @@
 | Keenan | [@kmanpearl](https://github.com/kmanpearl) | [@wayscience] | Breakfast | 
 | Ethan | [@Ecohen1763](https://github.com/Ecohen1763) | Way lab | Sushi |
 | Dayna | [@olsonday](https://github.com/olsonday) | Way Lab | Soup |
+| Alex | [@alexKotz-koz](https://github.com/alexKotz-koz) | Way Lab | Bagel |
 | Ralf | [@rpdagdag](https://github.com/rpdagdag) | Gignoux and Costello Labs | Carapace (IYKYK) |
 | Sam | [@SNOSO](https://github.com/SNOSO) | --- | Mangu |
