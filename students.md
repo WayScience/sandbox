@@ -15,3 +15,4 @@
 | Alex | [@alexKotz-koz](https://github.com/alexKotz-koz) | Way Lab | Bagel |
 | Ralf | [@rpdagdag](https://github.com/rpdagdag) | Gignoux and Costello Labs | Carapace (IYKYK) |
 | Sam | [@SNOSO](https://github.com/SNOSO) | --- | Mangu |
+| Weishan | [@wli51](https://github.com/wli51) | --- | Curry |
