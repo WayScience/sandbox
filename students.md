@@ -16,3 +16,4 @@
 | Ralf | [@rpdagdag](https://github.com/rpdagdag) | Gignoux and Costello Labs | Carapace (IYKYK) |
 | Sam | [@SNOSO](https://github.com/SNOSO) | --- | Mangu |
 | Kat | [@klterwelp](https://github.com/klterwelp) | Rotating | Queso! |
+| Weishan | [@wli51](https://github.com/wli51) | --- | Curry |
