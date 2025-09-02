@@ -1,3 +1,6 @@
+DEPRECATED
+
+See https://github.com/WayScience/CPBS7601/tree/main/materials/02.version_control/sandbox for newest version.
 # WayScience GitHub Sandbox
 
 **A place to mess around with git and GitHub**
