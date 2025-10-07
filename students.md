@@ -18,3 +18,4 @@
 | Jacey | [@jaceybronte](https://github.com/jaceybronte) | Way lab | Tacos |
 | Kat | [@klterwelp](https://github.com/klterwelp) | Rotating | Queso! |
 | Weishan | [@wli51](https://github.com/wli51) | --- | Curry |
+| Wingerson | [@wingersonMJ](https://github.com/wingersonMJ) | Colorado Concussion Research Lab | Sesame chicken & Lo Mein | 
