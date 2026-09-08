@@ -15,6 +15,7 @@
 | Alex | [@alexKotz-koz](https://github.com/alexKotz-koz) | Way Lab | Bagel |
 | Ralf | [@rpdagdag](https://github.com/rpdagdag) | Gignoux and Costello Labs | Carapace (IYKYK) |
 | Sam | [@SNOSO](https://github.com/SNOSO) | --- | Mangu |
+| Cheyanne | [@cheyannewdurham](https://github.com/cheyannewdurham) | Lau Lab | Key Lime Pie |
 | Jacey | [@jaceybronte](https://github.com/jaceybronte) | Way lab | Tacos |
 | Kat | [@klterwelp](https://github.com/klterwelp) | Rotating | Queso! |
 | Weishan | [@wli51](https://github.com/wli51) | --- | Curry |
