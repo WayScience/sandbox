@@ -19,4 +19,5 @@
 | Jacey | [@jaceybronte](https://github.com/jaceybronte) | Way lab | Tacos |
 | Kat | [@klterwelp](https://github.com/klterwelp) | Rotating | Queso! |
 | Weishan | [@wli51](https://github.com/wli51) | --- | Curry |
+| Shaoming | [@Barry-Xiao](https://github.com/Barry-Xiao) | Mueller lab | WATER |
 | Tada | [@tadavargas](https://github.com/tadavargas) | Norris Lab | Tacos |
